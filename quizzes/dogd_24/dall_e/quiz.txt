@@ -1,25 +1,34 @@
 100:
+Sword of Fire and Ice
+-- Jeg lyder lidt som navnet på en bog
+-- Jeg har været med i Cuben, siden begyndelsen
+-- Jeg er hverken bange for ild eller vand
+-- Jeg er en 3-mana equipment
+
+200:
+Rankle, Master of Pranks
+-- Jeg kan li' at lave løjer
+-- Jeg har samme farve som Cooper's kaffe
+-- Jeg har 3 modes.
+-- Jeg er en fe, dit fæ
+
+300:
+Temple of Enlightenment
+-- Jeg kommer sløvt fra start, men hjælper dobbelt til
+-- Jeg kommer fra en serien, der omhandler græsk mytologi
+-- Jeg kan fortælle dig, hvad der kommer til at ske
+-- Jeg er hvid/blå
+
+400:
 Council's Judgment.
 -- Der er mange som mig, men jeg er lidt anderledes
 -- Gemmer du dig som en trold, kan jeg stadig finde dig
 -- Når jeg spilles, stemmer i
 -- Jeg exiler et permanent, måske 2
 
-200:
-Rankle, Master of Pranks
---
--- Sort
--- Jeg er en fe, dit fæ
---
-
-300:
-Sword of Fire and Ice
--- Artifact
--- 3 mana
--- Beskyttelse
-
-400:
-Temple of Enlightenment
-
 500:
 Ravenous Chupacabra
+-- Jeg spiser de fleste til morgenmad
+-- Jeg kommer fra Sydamerikansk et-eller-andet
+-- Jeg har dårligere p/t end en Grey Ogre
+-- Jeg har en etb effekt
