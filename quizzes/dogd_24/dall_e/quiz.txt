@@ -1,16 +1,16 @@
 100:
 Council's Judgment.
--- Sorcery
--- Hvid
--- 3 mana
--- Stemmer
+-- Der er mange som mig, men jeg er lidt anderledes
+-- Gemmer du dig som en trold, kan jeg stadig finde dig
+-- Når jeg spilles, stemmer i
+-- Jeg exiler et permanent, måske 2
 
 200:
 Rankle, Master of Pranks
--- Creature
+--
 -- Sort
--- 4 mana
--- modes
+-- Jeg er en fe, dit fæ
+--
 
 300:
 Sword of Fire and Ice
