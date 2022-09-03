@@ -1,0 +1,25 @@
+100:
+Council's Judgment.
+-- Sorcery
+-- Hvid
+-- 3 mana
+-- Stemmer
+
+200:
+Rankle, Master of Pranks
+-- Creature
+-- Sort
+-- 4 mana
+-- modes
+
+300:
+Sword of Fire and Ice
+-- Artifact
+-- 3 mana
+-- Beskyttelse
+
+400:
+Temple of Enlightenment
+
+500:
+Ravenous Chupacabra
